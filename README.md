@@ -5,6 +5,7 @@ Can be initialized and treated just like a normal std::string in c++
 
 ## Overview of basic use
 ```c++
+#include "aString.h"
 int main()
 {
     aString foo = "bar";
