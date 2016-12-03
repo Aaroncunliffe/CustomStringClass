@@ -43,3 +43,7 @@ int main()
 1. Operator overloading
 2. Dynamic memory 
 
+
+# bigInt
+
+inside the big int file is a custom way of storing integers that is not constrained by the maximum integer size, there are also functions for basic arithmetic (add, subtract, multiplication, division, modulo). Examples of each use is commented out in the main() function
