@@ -1,6 +1,6 @@
 # Custom String Class
 
-A custom string class made in C++, Dynamically allocates memory, Implements a lot of the default functions from std::string.
+A custom string class made using C++, Dynamically allocates memory, implements a lot of the default functions from std::string.
 Can be initialized and treated just like a normal std::string in c++
 
 ## Overview of basic use
@@ -44,6 +44,8 @@ int main()
 2. Dynamic memory 
 
 
-# bigInt
+## bigInt - This was a 1 day challenge at university
 
-inside the big int file is a custom way of storing integers that is not constrained by the maximum integer size, there are also functions for basic arithmetic (add, subtract, multiplication, division, modulo). Examples of each use is commented out in the main() function
+inside the big int file is a custom way of storing integers that is not constrained by the maximum integer size, there are also functions for basic arithmetic (add, subtract, multiplication, division, modulo). Examples of each use is commented out in the main() function.
+
+The bigInt is very basic and could easily be improved, it does not use classes or dynamic memory allocation.
